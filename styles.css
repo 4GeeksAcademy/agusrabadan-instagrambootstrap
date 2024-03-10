@@ -1,0 +1,13 @@
+.cartas{
+    
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cardheader{
+    display: flex;
+    justify-content: space-between;
+}
